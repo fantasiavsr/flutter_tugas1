@@ -1,6 +1,9 @@
 # test_flutter
 
-A new Flutter project.
+Tugas Mobile Flutter 1 - Main Page Sederhana
+
+![image](https://user-images.githubusercontent.com/86558365/199269376-c1039e5c-d27d-4934-b362-63186292a79a.png)
+
 
 ## Getting Started
 
